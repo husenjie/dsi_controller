@@ -6,3 +6,6 @@ Since the DSI specification is non-public and requires an NDA, the core was buil
 using bits and pieces available throughout the Web: presentations, display controller/SOC
 datasheets, various application notes and Android kernel drivers. The author is not 
 associated in any way with the MIPI Alliance.
+
+存在异常
+CRC模块，输入时byte未翻转，crc输出未翻转
